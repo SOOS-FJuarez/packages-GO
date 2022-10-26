@@ -9,7 +9,7 @@ require (
 	github.com/graphql-go/graphql v0.7.7
 	github.com/hashicorp/go-getter v1.5.11
 	code.gitea.io/gitea v1.16.3
-	github.com/emicklei/go-restful v1.1.3
+	github.com/emicklei/go-restful v2.16.0+incompatible
 )
 
 require (
